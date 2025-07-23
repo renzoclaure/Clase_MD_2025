@@ -18,10 +18,6 @@ Aquí encontrarás los **materiales de clase**, **notebooks**, y **scripts en Py
 
 ```
 ├── notebooks/
-│   ├── semana1/
-│   ├── semana2/
-│   ├── semana3/
-│   └── semana4/
 ├── recursos/
 │   ├── MD_1.pdf
 │   ├── MD_2.pdf
@@ -34,7 +30,7 @@ Aquí encontrarás los **materiales de clase**, **notebooks**, y **scripts en Py
 
 ## Instalación del Entorno
 
-Para garantizar un entorno de trabajo estandarizado entre todos los participantes, se recomienda utilizar **Conda**.
+Para garantizar un entorno de trabajo estandarizado entre todos los participantes, se recomienda utilizar **Conda**, es solo una recomendación, puede trabajarse tambien con Colab u otra plataforma o entorno.
 
 ### 1. Clonar este repositorio
 
@@ -73,7 +69,7 @@ jupyter lab
 
 ## Contacto
 
-**Docente**: *[Nombre del Docente, M.Sc.]*  
+**Docente**: *Renzo Claure Aracena, M.Sc.*  
 **Email**: renzo.claure@gmail.com  
 **Teléfono**: +351 916705883
 
