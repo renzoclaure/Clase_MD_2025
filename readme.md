@@ -2,6 +2,7 @@
 
 **Universidad Autónoma “Gabriel René Moreno”**  
 **Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones**  
+**Docente: Renzo Claure Aracena, M.Sc.**  
 **Julio - Agosto 2025 | Santa Cruz, Bolivia**
 
 ---
